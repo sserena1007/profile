@@ -12,3 +12,4 @@ Makayla Cheng (Captain)
 Favorite Stroke: Freestyle
 BEST Swim Memory: everything!
 ```
+![download](https://user-images.githubusercontent.com/114507318/193440933-4fb8311c-7d05-4444-988a-9a322e2ad4ed.jpg)
