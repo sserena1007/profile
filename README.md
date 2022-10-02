@@ -2,6 +2,7 @@
 # Whitney High School's Girl JV Swim & Dive
 
 A profile of Whitney High School's Girl JV Swim & Dive team, featuring members and some other pretty cool facts!
+
 For more visit our Instagram [whs.jv.girls.swim](https://www.instagram.com/whs.jv.girls.swim/).
 
 
