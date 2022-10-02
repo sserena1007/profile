@@ -10,7 +10,6 @@ A profile of Whitney High School's Girl JV Swim & Dive team, featuring members a
 
 ```markdown
 Makayla Cheng (Captain)
-@makayla.cheng
 
 Favorite Stroke: Freestyle
 BEST Swim Memory: everything!
